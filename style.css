@@ -35,7 +35,7 @@ p{
 .button {
     align-content: center;
     justify-content: center;
-    position: center;
+    position: fixed;
     background-color: #4CAF50;
     border: none;
     color: rgb(5, 3, 3);
